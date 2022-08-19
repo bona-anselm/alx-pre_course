@@ -1,2 +1,11 @@
-git branch up_to_date
+git clone 
+git config --global user.email
+git config --global user.name
+git add .
+git commit 
+git push
+git branch
+git fetch origin
+git merge origin/main
+
 
