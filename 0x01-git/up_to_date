@@ -1,10 +1,5 @@
-git config --global user.email "bona.anselm@gmail.com"
-git config --global user.name "Bonaventure Anselm"
-git add .
-git commit -m 'How to be up to date in git [master (root-commit) 982ee32] How to be up to date in git'
-git push
 git branch
-git checkout update_script
+git checkout master
 git fetch origin
 git merge origin/master
 
