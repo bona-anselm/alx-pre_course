@@ -1,3 +1,4 @@
+How to be up to date in git
 git fetch origin
 git merge origin/master
 
